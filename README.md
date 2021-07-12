@@ -22,7 +22,11 @@ Then, copy the content from the flow.json file in this repository and import it 
 2. Copy/Paste the content of the JSON file above
 3. You should end up with this :
 
+![Flow](flow.png "Flow")
+
 4. Triple click on the "pass" node to open its settings and put the password you created in the OBS setup in the "private" field:
+
+![Password](password.png "Password")
  
 Restart all your flows. After a few seconds, you should see "Authenticated" under the "Auth Status" node.
  
